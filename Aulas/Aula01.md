@@ -7,3 +7,6 @@
     - Participação Efetiva (20%)
     - Versionamento e Anotações (20%)
     - Desafios/Trabalhos e Prova (60%)
+
+
+- complexidade = esforço computacional
