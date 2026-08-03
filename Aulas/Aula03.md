@@ -1,4 +1,6 @@
-Aula direcionada para pesquisa dos métodos de ordenação
+Aula direcionada para pesquisa dos métodos de ordenação 
+fazer um método que recebe uma lista e retorna true se está ordenado ou false caso contrário
+
 
 # Métodos de Ordenação
 
