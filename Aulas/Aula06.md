@@ -109,3 +109,6 @@ public class Principal()
         //Util.exibir(lista);
     }
 }
+
+### Atividade
+- Levar o Agitação para o MVC, inserir Bolha, inserção, seleção, sort nativo da linguagem
