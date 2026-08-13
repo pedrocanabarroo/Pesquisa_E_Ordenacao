@@ -10,3 +10,32 @@
   a ideia do inserção é pq cada valor da porção da direita da estrutura é inserido na sua posição correta no porção da esquerda.
 
   todos esses métodos rodam na memória ram
+
+
+### Qual melhor algoritmo de ordenação?
+- Depende
+  - Tamanho
+  - Grau de Ordenação
+## MVC
+- <<package>> Model
+  - utilidades
+  - popular.Lista(...)
+- <<package>>  View
+  - ListaView
+  - exibirLista(...)
+  - exibirTempo(...)
+- <<package>> Controller
+  - ListaController
+  - listaBolha
+  - listaSelecao
+  - listaInsercao
+  - popularListaBolha
+  - popularListaSelecao
+  - popularListaInsercao
+  - ?.bolha(listaBolha)
+  - ?.selecao(listaSelecao)
+  - ?.insercao(listaInsercao)
+- Classe Ordenada (ficará onde?? Controller ou Model)
+  - bolha(...)
+  - selecao(...)
+  - insercao(...)
