@@ -115,7 +115,7 @@ Padrão de arquitetura que divide o sistema em três camadas:
 ### Atividade 2 — Exercício Prático
 
 - **Método:** Recebe uma lista e retorna `true` se estiver ordenada, ou `false` caso contrário.
-- Código no repositório: [Exercício Aula 03](https://github.com/yasminComputing/Pesquisa-e-Ordenacao/tree/main/C%C3%B3digoAula_03.08)
+
 
 ### Comentários Gerais
 
@@ -567,7 +567,7 @@ def agitacao(lista):
 
 ### Exercício em MVC
 
-- Implementar o MVC contendo Bolha, Inserção, Seleção e Agitação: [Código Aula 13.08](https://github.com/yasminComputing/Pesquisa-e-Ordenacao/tree/main/C%C3%B3digoAula_13.08)
+- Implementar o MVC contendo Bolha, Inserção, Seleção e Agitação: 
 - Em C#, utiliza-se a palavra-chave `out` para retornar múltiplos parâmetros por referência (ex: `qtdComparacoes` e `qtdTrocas`).
 
 ---
@@ -616,7 +616,7 @@ void pente(List<Integer> lista) {
 ### Desafio — Ordenação por Múltiplas Chaves
 
 - Classe `Processo`: campos `int id`, `Date data`.
-- Código do repositório: [Desafio Comb Sort com Múltiplas Chaves](https://github.com/yasminComputing/Pesquisa-e-Ordenacao/tree/main/CodigoAulaUsandoPente_20.08)
+- Código do repositório: [Desafio Comb Sort com Múltiplas Chaves]
 
 ```csharp
 // Comparação primária por ID:
@@ -861,7 +861,7 @@ void shell(int[] vetor, int n) {
 > - **Monolítico:** Sistema acoplado em servidor e base centralizados; caso o servidor/banco caia, toda a aplicação fica indisponível.
 > - **Distribuído / Não monolítico:** Desacoplado em múltiplos nós e serviços independentes para tolerância a falhas.
 
-- Código do projeto Swing com Shell Sort: [Projeto Ordenação Shell Sort](https://github.com/yasminComputing/Pesquisa-e-Ordenacao/blob/main/ProjetoOrdenacao_SHELLSORT)
+- Código do projeto Swing com Shell Sort: [Projeto Ordenação Shell Sort]
 
 ---
 
@@ -922,7 +922,7 @@ public static boolean pesquisaBinaria(int numero, ArrayList<Integer> lista) {
 }
 ```
 
-- Repositório da aula: [Aula Pesquisa Binária](https://github.com/yasminComputing/Pesquisa-e-Ordenacao/tree/main/Aula_Pesquisa_01.10)
+- Repositório da aula: [Aula Pesquisa Binária]
 
 ---
 
@@ -1046,7 +1046,7 @@ Desenvolvimento com interface gráfica:
 
 ### Implementação Primitiva de Função Hash
 
-- Referência: [HashBase em Java](https://github.com/yasminComputing/Pesquisa-e-Ordenacao/blob/main/HashBase/src/Principal.java)
+- Referência: [HashBase em Java]
 - O hashing é indicado para recuperação digital rápida, porém inadequado para geração de relatórios ordenados.
 - Estruturas pequenas aumentam a probabilidade de **colisão**.
 - Função de espalhamento básica:
